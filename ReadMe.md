@@ -1,5 +1,5 @@
 # Neural Machine Translation Project
-
+https://prateeksarna-24.github.io/Medical-Record-Summarizer/
 ## Overview
 
 This project focuses on Neural Machine Translation (NMT) using a basic Encoder-Decoder architecture. The goal is to translate French sentences into English using a trained model.
